@@ -17,5 +17,5 @@ System.Console.WriteLine();
     // C
 System.Console.WriteLine("Shape");
 Shape shape=new Shape();
-shape.GetPosition(4,7);
+shape.GetPosition(5,7);
 shape.GetFullInfo("red","circle",5,7);
